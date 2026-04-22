@@ -6,10 +6,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 강태준
+name: 김덕식
 title: Software Engineer
-email: kindxowns@gmail.com
-website: https://github.com/effortdev
+email: water423@gmail.com
+website: https://github.com/kds3474
 website_title: Github
 
 darkmode: false
