@@ -113,7 +113,6 @@ content:
           - Java 17
           - Spring Boot 3.x, Spring Batch 5.x, Spring Security 6.x
           - JPA (Hibernate)
-          - WebSocket (STOMP)
           - JUnit5
           - Gradle
           - IntelliJ
@@ -121,10 +120,8 @@ content:
         title: DevOps
         description: |
           - MySQL 8.x
-          - Redis (Caching / Pub-Sub)
           - GitHub Actions (CI/CD)
-          - AWS, Azure, GCP
-          - Docker
+          - AWS
           - Git
       - layout: left
         title: Frontend
@@ -132,32 +129,25 @@ content:
           - JavaScript 
           - ReactJS
           - Vite
-          - Vercel
 
   - title: 자격증
     layout: list
     content:
       - layout: top-left
-        title: 정보처리기사
-        caption: 2025. 09
-        description: |
-          - 한국산업인력공단
-        
-      - layout: top-left
-        title: SQL 개발자
-        caption: 2025. 04
-        description: |
-          - 한국데이터산업진흥원
-    
-      - layout: top-left
-        title: 컴퓨터활용능력 1급
-        caption: 2020. 11
+        title: 웹디자인 기능사
+        caption: 2012
         description: |
           - 대한상공회의소
     
       - layout: top-left
-        title: 정보처리기능사
-        caption: 2010. 11
+        title: 컴퓨터그래픽스 기능사
+        caption: 2010
+        description: |
+          - 한국산업인력공단
+
+      - layout: top-left
+        title: ITQ 정보검색사 
+        caption: 2009. 11
         description: |
           - 한국산업인력공단
 
@@ -169,25 +159,6 @@ content:
         caption: 2025-10-23 ~ 2026-04-22
         description: |
           - 하이미디어 컴퓨터학원
-            
-      - layout: top-left
-        title: DCX기반 빅데이터 분석서비스 개발자 과정
-        caption: 2022-06-20 ~ 2022-12-14
-        description: |
-          - 스마트인재개발원      
-
-  - title: 연구 경험
-    layout: list
-    content:
-      - layout: top-left
-        title: 주요 밀원 개화기 예측 이용 기술 개발
-        sub_title: 농촌진흥청, 참여연구자
-        caption: 2023. 06 ~ 2026. 12
-        quote: >
-          농업·환경 도메인 R&D 과제의 웹 시스템 개발 참여
-        description: |
-          - 기온 데이터를 활용한 개화기 예측 알고리즘 연구 참여
-          - 예측 데이터를 시각화하는 웹 서비스 설계 및 개발 참여
 
 # Footer
 footer_show_references: true
