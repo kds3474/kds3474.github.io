@@ -31,7 +31,7 @@ content:
     content:
     
       - layout: left
-        title: (주)고스타
+        title: (주)퍼니랜드
         sub_title: Backend Engineer
         caption: 2023. 06 ~ 2024. 08
         quote: >
@@ -42,7 +42,29 @@ content:
           - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
           
       - layout: left
-        title: (주)마케팅선/(주)마케팅본
+        title: (주)마케팅본
+        sub_title: Backend Engineer
+        caption: 2023. 06 ~ 2024. 08
+        quote: >
+          IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
+        description: |
+          - MQTT 통신을 활용한 IoT 디바이스 실시간 데이터 수집 및 시각화 개발
+          - 회사 웹사이트 제작 및 유지보수
+          - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
+
+      - layout: left
+        title: (주)마케팅선
+        sub_title: Backend Engineer
+        caption: 2023. 06 ~ 2024. 08
+        quote: >
+          IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
+        description: |
+          - MQTT 통신을 활용한 IoT 디바이스 실시간 데이터 수집 및 시각화 개발
+          - 회사 웹사이트 제작 및 유지보수
+          - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
+
+      - layout: left
+        title: (주)고스타
         sub_title: Backend Engineer
         caption: 2023. 06 ~ 2024. 08
         quote: >
