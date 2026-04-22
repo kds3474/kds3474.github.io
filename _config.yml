@@ -15,7 +15,7 @@ website_title: Github
 darkmode: false
 
 about_profile_image: images/ktj5.png
-about_content: |
+about_content: 
   Java/Spring을 중심으로 백엔드 개발 경험을 쌓아오고 있습니다. 하나의 기술에 안주하지 않고 새로운 것을 꾸준히 익히며, 배운 것을 실제 서비스에 적용해보는 과정에서 가장 큰 보람을 느낍니다. 
   기술은 결국 문제를 해결하기 위한 도구라는 생각으로, 상황에 맞는 기술을 선택하고 적용하는 능력을 키워가고 있습니다.
 
@@ -29,8 +29,9 @@ content:
   - title: 경력
     layout: list
     content:
+    
       - layout: left
-        title: IoT 스타트업
+        title: (주)고스타
         sub_title: Backend Engineer
         caption: 2023. 06 ~ 2024. 08
         quote: >
@@ -41,7 +42,18 @@ content:
           - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
           
       - layout: left
-        title: 웹 에이전시
+        title: (주)마케팅선/(주)마케팅본
+        sub_title: Backend Engineer
+        caption: 2023. 06 ~ 2024. 08
+        quote: >
+          IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
+        description: |
+          - MQTT 통신을 활용한 IoT 디바이스 실시간 데이터 수집 및 시각화 개발
+          - 회사 웹사이트 제작 및 유지보수
+          - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
+          
+      - layout: left
+        title: (주)스카이애드홀딩스
         sub_title: Engineer Intern
         caption: 2023. 03 ~ 2023. 05
         quote: >
@@ -73,10 +85,10 @@ content:
           - 메인 레포지토리 관리, Git 협업 환경(브랜치 전략 등) 세팅 및 GitHub Actions 기반 CI/CD 자동화 파이프라인 구축
 
       - layout: top-left
-        title: 부동산 실거래 조회 서비스
-        sub_title: 개인 프로젝트
+        title: 체크인
+        sub_title: 관리자 시스템 (팀 프로젝트 · 5인 · 3주)
         caption: Spring Boot · React · Docker · GitHub Actions · Azure · Vercel
-        link: realelstate.vercel.app
+        link: 
         link_text: 🚀 [부동산 실거래 조회 서비스 바로가기]
         quote: >
           공공데이터 기반 아파트 실거래 정보를 시각화하는 웹 서비스
@@ -147,7 +159,7 @@ content:
 
       - layout: top-left
         title: ITQ 정보검색사 
-        caption: 2009. 11
+        caption: 2009.
         description: |
           - 한국산업인력공단
 
