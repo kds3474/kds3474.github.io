@@ -32,7 +32,7 @@ content:
     
       - layout: left
         title: (주)퍼니랜드
-        sub_title: Backend Engineer
+        sub_title:  PM
         caption: 2023. 06 ~ 2024. 08
         quote: >
           IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
@@ -43,7 +43,7 @@ content:
           
       - layout: left
         title: (주)마케팅본
-        sub_title: Backend Engineer
+        sub_title: PM
         caption: 2023. 06 ~ 2024. 08
         quote: >
           IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
@@ -54,7 +54,7 @@ content:
 
       - layout: left
         title: (주)마케팅선
-        sub_title: Backend Engineer
+        sub_title: PM
         caption: 2023. 06 ~ 2024. 08
         quote: >
           IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
@@ -65,7 +65,7 @@ content:
 
       - layout: left
         title: (주)고스타
-        sub_title: Backend Engineer
+        sub_title: PL , Desi
         caption: 2023. 06 ~ 2024. 08
         quote: >
           IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
